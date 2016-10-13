@@ -4,7 +4,7 @@ Email: mohit.mangal2@gmail.com, mohit.mangal@lnmiit.ac.in
 Description: Following file classifies questions given in
              test.csv into what, when, affirmation and unknown
              classes.
-             It considers questions given in files what,when
+             It considers questions given in files what,when,
              affirmation as training data corresponding to each
              type.
              output is written to testOut.csv file
