@@ -17,6 +17,8 @@ Python Packages: nltk, sklearn, numpy, csv
   2. Add the questions you want to calssify in test.csv file.
   3. Run code.py
   4. Check file testOut.csv for output
+  
+  For sample run code.py and check file testOut.csv
 
 ## Overview of Approach
   1. POS tagging is done using NLTK pos-tagger
