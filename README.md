@@ -19,5 +19,5 @@ Python Packages: nltk, sklearn, numpy, csv
   4. Check file testOut.csv for output
 
 ## Overview of Approach
-  1. POS tagging is done using NLTK postagger
+  1. POS tagging is done using NLTK pos-tagger
   2. Using selected words and POS tags as features, multiclass SVM classifier is used for classification using one versus all approach and RBF kernal
